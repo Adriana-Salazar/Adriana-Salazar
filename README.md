@@ -1,8 +1,8 @@
 # 💫 Hola soy Adriana 👋
 
-### Tecnológa de corazón - Programadora en formación 
-### Iniciando este nuevo viaje de Web Developer orientada al Front End de la mano de Laboratoria! 
-### Preparada para asumir nuevos retos!
+Tecnológa de corazón - Programadora en formación 
+Iniciando este nuevo viaje de Web Developer orientada al Front End de la mano de Laboratoria! 
+Preparada para asumir nuevos retos!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adriana-salazar-moreno) 
