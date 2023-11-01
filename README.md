@@ -1,7 +1,7 @@
 # 💫 Hola soy Adriana 👋
 
-Tecnológa de corazón - Programadora en formación 
-Iniciando este nuevo viaje de Web Developer orientada al Front End de la mano de Laboratoria! 
+Tecnológa de corazón - Programadora en formación. 
+Iniciando este nuevo viaje de Web Developer orientada al Front End de la mano de Laboratoria! donde he estado adquiriendo habilidades, conocimientos y experiencia en el emocionante mundo de la creación web.
 Preparada para asumir nuevos retos!
 
 ## 🌐 Socials:
