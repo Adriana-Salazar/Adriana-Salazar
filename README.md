@@ -2,9 +2,9 @@
 
 Tecnológa de corazón - Programadora en formación. 
 
-Iniciando este nuevo viaje de Web Developer orientada al Front End de la mano de Laboratoria! donde he estado adquiriendo habilidades, conocimientos y experiencia en el emocionante mundo de la creación web.
+Iniciando este nuevo viaje de Web Developer orientada al Front End de la mano de Laboratoria! donde he estado adquiriendo habilidades, conocimientos y experiencia en el emocionante mundo de la creación web; entusiasmada con todas las posibilidades que este campo tiene para ofrecer. Creo firmemente en el poder de la colaboración y el aprendizaje continuo en la comunidad de desarrollo.
 
-Preparada para asumir nuevos retos que me ayuden a expandir mis habilidades y conocimientos!
+Preparada para asumir nuevos retos que me ayuden a expandir mis habilidades y conocimientos! 
 
 ¡Acompáñame en este emocionante viaje tecnológico! ✨
 
